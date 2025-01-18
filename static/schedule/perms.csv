@@ -8,7 +8,6 @@ Sarah WUILLOT,TRUE,TRUE,Campouce,Campouce,Café,Campouce,Campouce,Campouce,TRUE,
 Florian HANUISE,TRUE,TRUE,Café,Campouce,Campouce,Campouce,Campouce,Campouce,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,FALSE
 Lana DE RUYCK,TRUE,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Café,Foyer Culturel,TRUE,Foyer Culturel,Hall du K (eau),Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,FALSE
 Dominique GILBERT,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE
-Oliwia KOLOSOWSKA,FALSE,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Hall du K (eau),TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,FALSE
 Julian VENKATAPEN,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Hall du K (eau),Chez Théo,Chez Théo,TRUE,Foyer Culturel,Foyer Culturel,Café,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE
 Romain DELANGHE,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE
 Mark DIMITROV,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE
@@ -23,7 +22,7 @@ Délia LAZARD,TRUE,TRUE,Préfab,Foyer Culturel,Préfab,Préfab,Préfab,Préfab,F
 Wassim BOUHDID,TRUE,FALSE,,,,,,,TRUE,Préfab,Préfab,Hall du K (eau),Préfab,Préfab,Préfab,TRUE
 Zack DELAERE,TRUE,TRUE,Campouce,Hall du K (eau),Campouce,Préfab,Préfab,Préfab,TRUE,Chez Théo,Chez Théo,Hall U.D,Préfab,Préfab,Préfab,TRUE
 Firas SOLTANA,TRUE,TRUE,Hall du K (eau),Préfab,Préfab,Campouce,Campouce,Campouce,TRUE,Préfab,Préfab,Préfab,Chez Théo,Chez Théo,Chez Théo,TRUE
-Félicien DEVILLE,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Foyer Culturel,Hall U.D,Hall U.D,Hall U.D,TRUE
+Félicien DEVILLE,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall du K (eau),TRUE,Hall U.D,Hall U.D,Foyer Culturel,Hall U.D,Hall U.D,Hall U.D,TRUE
 Natarajan DUNIN-KARWICKI,FALSE,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Café,TRUE,Campouce,Campouce,Hall du K (eau),Campouce,Campouce,Campouce,TRUE
 Kenzo MAILLEUX,FALSE,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Café,Chez Théo,Chez Théo,Chez Théo,Chez Théo,FALSE
 Maxime VAN DEN BROECK,FALSE,FALSE,,,,,,,TRUE,Préfab,Préfab,Préfab,Foyer Culturel,Café,Préfab,TRUE
@@ -55,3 +54,5 @@ Lora GILLOT,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Préfab,Préfab,Préfab,F
 Maxime DE SELYS LONGCHAMPS,FALSE,FALSE,,,,,,,FALSE,,,,,,,TRUE
 Amélie VAN GOSSUM,FALSE,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,FALSE,,,,,,,FALSE
 Ossama EL FANIS,TRUE,TRUE,Préfab,Préfab,Préfab,Campouce,Campouce,Campouce,TRUE,Préfab,Préfab,Hall U.D,Chez Théo,Chez Théo,Chez Théo,FALSE
+Bruno SYLIN,FALSE,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,FALSE
+Guillaume WAFFLARD,FALSE,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,FALSE
