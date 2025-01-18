@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/cistem/static/css/main.3e862ac8.css",
+    "main.js": "/cistem/static/js/main.91b41a02.js",
+    "static/js/501.7476c5ad.chunk.js": "/cistem/static/js/501.7476c5ad.chunk.js",
+    "static/js/727.50b1cbdb.chunk.js": "/cistem/static/js/727.50b1cbdb.chunk.js",
+    "static/js/540.b3aaacb2.chunk.js": "/cistem/static/js/540.b3aaacb2.chunk.js",
+    "static/media/sumup.gif": "/cistem/static/media/sumup.de75a8d63c65213ad066.gif",
+    "static/media/sofia.jpg": "/cistem/static/media/sofia.aef109a4eb21ffbc79d8.jpg",
+    "static/media/jupiler.png": "/cistem/static/media/jupiler.f2d0a6243244b38fa84d.png",
+    "static/media/fosdem_plan_solbosch.jpg": "/cistem/static/media/fosdem_plan_solbosch.32540b0e06a3d2be95cc.jpg",
+    "static/media/julien.jpg": "/cistem/static/media/julien.a29554f0df4323649636.jpg",
+    "static/media/barbar.png": "/cistem/static/media/barbar.fc98601ec0ea5c96c1af.png",
+    "static/media/charlotte.jpg": "/cistem/static/media/charlotte.5a47585dea76f07456c7.jpg",
+    "static/media/fosdem2025.png": "/cistem/static/media/fosdem2025.b504420d7c31d523447f.png",
+    "static/media/talkie.jpg": "/cistem/static/media/talkie.0041a5ac9f2dca8373aa.jpg",
+    "static/media/fosdem_ci_purple.png": "/cistem/static/media/fosdem_ci_purple.1e292c679c5b42eb12bb.png",
+    "static/media/slick.svg": "/cistem/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/cistem/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cistem/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/cistem/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cistem/index.html",
+    "main.3e862ac8.css.map": "/cistem/static/css/main.3e862ac8.css.map",
+    "main.91b41a02.js.map": "/cistem/static/js/main.91b41a02.js.map",
+    "501.7476c5ad.chunk.js.map": "/cistem/static/js/501.7476c5ad.chunk.js.map",
+    "727.50b1cbdb.chunk.js.map": "/cistem/static/js/727.50b1cbdb.chunk.js.map",
+    "540.b3aaacb2.chunk.js.map": "/cistem/static/js/540.b3aaacb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e862ac8.css",
+    "static/js/main.91b41a02.js"
+  ]
+}
