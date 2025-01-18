@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CISTEM-public/static/css/main.c7d7e8e3.css",
-    "main.js": "/CISTEM-public/static/js/main.d6abc218.js",
+    "main.js": "/CISTEM-public/static/js/main.3ec1cf3b.js",
     "static/js/501.7476c5ad.chunk.js": "/CISTEM-public/static/js/501.7476c5ad.chunk.js",
     "static/js/727.50b1cbdb.chunk.js": "/CISTEM-public/static/js/727.50b1cbdb.chunk.js",
     "static/js/540.b3aaacb2.chunk.js": "/CISTEM-public/static/js/540.b3aaacb2.chunk.js",
@@ -21,13 +21,13 @@
     "index.html": "/CISTEM-public/index.html",
     "static/media/slick.woff": "/CISTEM-public/static/media/slick.295183786cd8a1389865.woff",
     "main.c7d7e8e3.css.map": "/CISTEM-public/static/css/main.c7d7e8e3.css.map",
-    "main.d6abc218.js.map": "/CISTEM-public/static/js/main.d6abc218.js.map",
+    "main.3ec1cf3b.js.map": "/CISTEM-public/static/js/main.3ec1cf3b.js.map",
     "501.7476c5ad.chunk.js.map": "/CISTEM-public/static/js/501.7476c5ad.chunk.js.map",
     "727.50b1cbdb.chunk.js.map": "/CISTEM-public/static/js/727.50b1cbdb.chunk.js.map",
     "540.b3aaacb2.chunk.js.map": "/CISTEM-public/static/js/540.b3aaacb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7d7e8e3.css",
-    "static/js/main.d6abc218.js"
+    "static/js/main.3ec1cf3b.js"
   ]
 }
