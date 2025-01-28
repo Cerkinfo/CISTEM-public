@@ -1,14 +1,14 @@
 NAME,VENDREDI,SAMEDI,08:00 - 10:00,10:01 - 12:00,12:01 - 14:00,14:01 - 16:00,16:01 - 18:00,18:01 - 20:00,DIMANCHE,08:01 - 10:00,10:01 - 12:00,12:01 - 14:00,14:01 - 16:00,16:01 - 18:00,18:01 - 20:00,LUNDI
 Valentine MEYVAERT,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE
-Juliette CORNU,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE
+Juliette CORNU,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall du K (eau),Hall U.D,Hall U.D,Hall U.D,TRUE
 Jérôme COURTOY,TRUE,TRUE,Foyer Culturel,Hall du K (eau),Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE
 Triantafyllos MANDEKIS,TRUE,TRUE,Préfab,Préfab,Hall du K (eau),Préfab,Préfab,Préfab,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,FALSE
 Dimitri BARANUYKIN,TRUE,TRUE,Préfab,Foyer Culturel,Préfab,Préfab,Préfab,Préfab,TRUE,Préfab,Préfab,Préfab,Préfab,Hall du K (eau),Préfab,TRUE
 Sarah WUILLOT,TRUE,TRUE,Café,Café,Campouce,Campouce,Campouce,Campouce,TRUE,Hall du K (eau),Campouce,Campouce,Campouce,Campouce,Campouce,TRUE
-Florian HANUISE,TRUE,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,FALSE
+Florian HANUISE,FALSE,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,FALSE,,,,,,,FALSE
 Lana DE RUYCK,TRUE,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE,Foyer Culturel,Hall du K (eau),Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,FALSE
 Dominique GILBERT,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE
-Julian VENKATAPEN,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Hall du K (eau),Chez Théo,Chez Théo,TRUE,Foyer Culturel,Foyer Culturel,Café,Café,Foyer Culturel,Foyer Culturel,TRUE
+Julian VENKATAPEN,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Hall du K (eau),Chez Théo,Chez Théo,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE
 Romain DELANGHE,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE
 Mark DIMITROV,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE
 Manuella COÏMBRA,FALSE,TRUE,Chez Théo,Chez Théo,Chez Théo,Préfab,Préfab,Hall du K (eau),TRUE,Campouce,Campouce,Campouce,Préfab,Préfab,Préfab,FALSE
@@ -23,10 +23,10 @@ Wassim BOUHDID,TRUE,FALSE,,,,,,,TRUE,Préfab,Préfab,Hall du K (eau),Préfab,Pr�
 Zack DELAERE,TRUE,TRUE,Campouce,Hall du K (eau),Campouce,Préfab,Préfab,Préfab,TRUE,Chez Théo,Chez Théo,Hall U.D,Préfab,Préfab,Préfab,TRUE
 Firas SOLTANA,TRUE,TRUE,Hall du K (eau),Préfab,Préfab,Campouce,Campouce,Campouce,TRUE,Préfab,Préfab,Préfab,Chez Théo,Chez Théo,Chez Théo,TRUE
 Félicien DEVILLE,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall du K (eau),TRUE,Hall U.D,Hall U.D,Foyer Culturel,Hall U.D,Hall U.D,Hall U.D,TRUE
-Natarajan DUNIN-KARWICKI,FALSE,TRUE,Campouce,Campouce,Campouce,Campouce,Café,Café,TRUE,Campouce,Campouce,Hall du K (eau),Campouce,Campouce,Campouce,TRUE
-Kenzo MAILLEUX,FALSE,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,FALSE
+Natarajan DUNIN-KARWICKI,FALSE,TRUE,Campouce,Campouce,Campouce,Campouce,Café,Café,FALSE,,,,,,,TRUE
+Kenzo MAILLEUX,FALSE,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Café,Café,Chez Théo,Chez Théo,FALSE
 Maxime VAN DEN BROECK,FALSE,FALSE,,,,,,,TRUE,Préfab,Préfab,Préfab,Foyer Culturel,Préfab,Préfab,TRUE
-Xhulio KAPEDANI,TRUE,TRUE,Hall du K (eau),Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Café,Café,FALSE
+Xhulio KAPEDANI,FALSE,TRUE,Hall du K (eau),Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Café,Café,FALSE
 Alexandre VINOVRSKI,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Hall du K (eau),Préfab,Préfab,TRUE,Campouce,Campouce,Campouce,Foyer Culturel,Préfab,Préfab,TRUE
 Lucas IFFENECKER,TRUE,TRUE,Préfab,Préfab,Hall du K (eau),Chez Théo,Chez Théo,Chez Théo,TRUE,Préfab,Préfab,Préfab,Hall U.D,Hall U.D,Hall U.D,FALSE
 Antoine KEMPTON,TRUE,TRUE,Préfab,Préfab,Préfab,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall du K (eau),Préfab,Préfab,Campouce,Campouce,Campouce,FALSE
