@@ -1,6 +1,6 @@
 {
-  "short_name": "%REACT_APP_WEBSITE_TITLE%",
-  "name": "%REACT_APP_WEBSITE_TITLE%",
+  "short_name": "%CISTEM_TITLE%",
+  "name": "%CISTEM_TITLE%",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,6 +19,6 @@
     }
   ],
   "display": "standalone",
-  "theme_color": "%REACT_APP_WEBSITE_THEME%",
+  "theme_color": "%CISTEM_THEME%",
   "background_color": "#000"
 }
